@@ -1,6 +1,6 @@
 # Terraform_Drift-Detection_Notes
 
-1. Using cron job to everytime run the `terraform refresh` to detect the drift every minute but this command may be soon deprecated by terraform 
+1. Using Cron job to everytime run the `terraform refresh` to detect the drift every minute but this command may be soon deprecated by terraform 
 
 2. Configure Strict IAM Policies and prevent un-authorized access to AWS
 
